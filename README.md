@@ -1,7 +1,5 @@
 ## Hi 👋 I'm Cheryl,
 
-🔭 I’m currently undertaking a full stack development training course with _nology, with a focus on building a skillset in the following languages and tools: HTML5, CSS/SCSS, JavaScript, TypeScript, React, Java, SQL, Spring, Github.
+🔭 I love creating and experimenting with code 🤓 Currently working with: HTML5, CSS/SCSS, JavaScript, TypeScript, React, Java, SQL, Spring, Python, Git/Github.
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,java,spring,github&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,java,spring,py,github&theme=light)](https://skillicons.dev)
